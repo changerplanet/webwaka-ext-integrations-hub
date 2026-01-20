@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-ext-integrations-hub",
+  "name": "Integrations Hub",
+  "version": "0.1.0",
+  "class": "ext",
+  "description": "Central hub for third-party integrations",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-ext-integrations-hub"
+  }
+}
